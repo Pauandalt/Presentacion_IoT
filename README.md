@@ -1,6 +1,6 @@
 # Internet of the Things: IoT
 ???
-Play: https://pauandalt.github.io/r/r?
+Play: https://pauandalt.github.io/r/r?https://pauandalt.github.io/Presentacion_IoT/
 ## pase a la siguiente diapositiva para empezar
 
 ## 
