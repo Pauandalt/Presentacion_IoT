@@ -33,6 +33,19 @@ Podríamos definir el Internet de las cosas como la consolidación a través de 
 ![](https://blogs.iadb.org/integracion-comercio/wp-content/uploads/sites/14/2018/10/Industria-4.0-1.jpg)
 ### 2.2	Operarios 4.0
 ![](https://pbs.twimg.com/media/DuIX7NLWwAQs6hH.jpg)
+
+### 2.2	Operarios 4.0
+El trabajador del futuro: se muestra el perfil técnico al que tendrán que adaptarse los trabajadores en el futuro.
+![](https://pauandalt.github.io/IoT/Herramientas_Operarios_4.0.PNG)
+
+### 2.2	Operarios 4.0
+Seat presenta su concepto de operario conectado durante el 'II Congreso de Industria Conectada 4.0'
+![](https://img.europapress.es/fotoweb/fotonoticia_20180926191128_640.jpg)
+
+### 2.2	Operarios 4.0
+
+[![IMAGE ALT TEXT HERE](https://github.com/Pauandalt/Presentacion_IoT/blob/master/video%20operario%204.0.PNG?raw=true)](https://www.youtube.com/watch?time_continue=50&v=mBNBELPMuX)
+
 ## 3. Sectores e impacto:
 
 ### Desarrollo Mantenimiento predictivo:
