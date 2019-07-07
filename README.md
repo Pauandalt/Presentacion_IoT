@@ -47,7 +47,7 @@ Seat presenta su concepto de operario conectado durante el 'II Congreso de Indus
 [![IMAGE ALT TEXT HERE](https://github.com/Pauandalt/Presentacion_IoT/blob/master/video%20operario%204.0.PNG?raw=true)](https://www.youtube.com/watch?time_continue=50&v=mBNBELPMuX)
 
 ## 3. Sectores e impacto:
-
+![](https://prometeusgs.com/wp-content/uploads/2019/02/Internet-de-las-cosas-IoT.jpg)
 ### Desarrollo Mantenimiento predictivo:
 ![](https://pauandalt.github.io/IoT/Mantenimiento_Predictivo.PNG)
 
