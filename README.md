@@ -41,9 +41,9 @@ Podríamos definir el Internet de las cosas como la consolidación a través de 
 ### Evolución Mantenimiento predictivo: 
 ![](https://pauandalt.github.io/IoT/Evolucion_mantenimiento_predictivo.PNG)
 ### Previsiones del estado español
-
+![](https://www.oysconsultores.com/wp-content/uploads/2018/05/unnamed.png)
 ### Previsiones de Comisiones Obreras
-
+![](https://www.venmas.com/var/shop/storage/images/venmas/boletin/colaboraciones/como_realizar_previsiones_de_ventas/1237737-4-esl-ES/como_realizar_previsiones_de_ventas_large.jpg)
 ## 4. Oportunidades:
 
 ![](https://pauandalt.github.io/IoT/Oportunidades_IoT.PNG)
